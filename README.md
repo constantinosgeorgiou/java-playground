@@ -27,3 +27,12 @@ First attempts to creating java programs.
 
 <h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step8.java" title="Step eight source code" target="_blank">Step 8</a> - Displaying the credits of a movie</h2> 
 <img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step8-Credits.PNG" alt="Step 8"/>
+
+<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step9.java" title="Step nine source code" target="_blank">Step 9</a> - Introducing if statements via two simple game examples</h2> 
+<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step9-Game.PNG" alt="Step 9"/>
+
+<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step10.java" title="Step ten source code" target="_blank">Step 10</a> - Commodity</h2> 
+<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step10-Commodity.PNG" alt="Step 10"/>
+
+<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step11.java" title="Step eleven source code" target="_blank">Step 11</a> - Clock</h2> 
+<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step11-Clock.PNG" alt="Step 11"/>
