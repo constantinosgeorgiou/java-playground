@@ -42,3 +42,12 @@ First attempts to creating java programs.
 
 <h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step13.java" title="Step thirteen source code" target="_blank">Step 13</a> - Benchmark</h2> 
 <img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step13-Benchmark.PNG" alt="Step 13"/>
+
+<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step14.java" title="Step fourteen source code" target="_blank">Step 14</a> - Space remover</h2> 
+<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step14-SpaceRemover.PNG" alt="Step 14"/>
+
+<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step15.java" title="Step fifteen source code" target="_blank">Step 15</a> - Sorting a table that contains names</h2> 
+<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step15-Name.PNG" alt="Step 15"/>
+
+<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step16.java" title="Step sixteen source code" target="_blank">Step 16</a> - Letter frequency counter</h2> 
+<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step16-Wheel.PNG" alt="Step 16"/>
