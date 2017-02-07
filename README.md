@@ -36,3 +36,9 @@ First attempts to creating java programs.
 
 <h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step11.java" title="Step eleven source code" target="_blank">Step 11</a> - Clock</h2> 
 <img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step11-Clock.PNG" alt="Step 11"/>
+
+<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step12.java" title="Step twelve source code" target="_blank">Step 12</a> - Multiples of Nine</h2> 
+<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step12-Nines.PNG" alt="Step 12"/>
+
+<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step13.java" title="Step thirteen source code" target="_blank">Step 13</a> - Benchmark</h2> 
+<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step13-Benchmark.PNG" alt="Step 13"/>
