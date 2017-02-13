@@ -1,3 +1,7 @@
+/**
+ *
+ * @author Constantinos Georgiou <www.constantinosgeorgiou.com>
+ */
 public class AcousticModem extends Modem {
     String method = "acoustic connection";
     

@@ -1,3 +1,7 @@
+/**
+ *
+ * @author Constantinos Georgiou <www.constantinosgeorgiou.com>
+ */
 public class DslModem extends Modem {
     String method = "DSL phone connection";
     

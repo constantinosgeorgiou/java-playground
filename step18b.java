@@ -1,3 +1,7 @@
+/**
+ *
+ * @author Constantinos Georgiou <www.constantinosgeorgiou.com>
+ */
 public class CableModem extends Modem {
     String method = "cable connection";
     

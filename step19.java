@@ -1,3 +1,7 @@
+/**
+ *
+ * @author Constantinos Georgiou <www.constantinosgeorgiou.com>
+ */
 public class AcousticTester {
     public static void main(String[] args) {
         AcousticModem hayes = new AcousticModem();

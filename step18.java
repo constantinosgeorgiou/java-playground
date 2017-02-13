@@ -1,3 +1,7 @@
+/**
+ *
+ * @author Constantinos Georgiou <www.constantinosgeorgiou.com>
+ */
 public class ModemTester {
     public static void main(String[] args) {
         CableModem surfBoard = new CableModem();
