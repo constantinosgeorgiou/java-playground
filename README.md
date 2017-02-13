@@ -51,3 +51,23 @@ First attempts to creating java programs.
 
 <h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step16.java" title="Step sixteen source code" target="_blank">Step 16</a> - Letter frequency counter</h2> 
 <img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step16-Wheel.PNG" alt="Step 16"/>
+
+<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step17.java" title="Step seventeen source code" target="_blank">Step 17</a> - Finding the square root with arguments</h2> 
+<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step17-Arguments.PNG" alt="Step 17 Arguments"/>
+<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step17-NewRootv2.PNG" alt="Step 17"/>
+
+<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step18.java" title="Step eighteen source code" target="_blank">Step 18</a> - Creating a modem tester... sort of...</h2> 
+<h3><b>Classes used in <a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step18.java" title="Step eighteen source code" target="_blank">Step 18</a></b></h3>
+<ul>
+  <li><h3><b><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step18a.java" title="Modem class" target="_blank">Modem</a></b> class</h3></li>
+  <li><h3><b><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step18b.java" title="CableModem class" target="_blank">CableModem</a></b> class</h3></li>
+  <li><h3><b><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step18c.java" title="DslModem class" target="_blank">DslModem</a></b> class</h3></li>
+</ul>
+<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step18-ModemTester.PNG" alt="Step 18"/>
+
+<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step19.java" title="Step nineteen source code" target="_blank">Step 19</a> - Creating an acoustic modem tester... sort of...</h2> 
+<h3><b>Classes used in <a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step19.java" title="Step nineteen source code" target="_blank">Step 19</a></b></h3>
+<ul>
+<li><h3><b><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step19a.java" title="Acoustic Modem class" target="_blank">Acoustic Modem</a></b> class</h3></li>
+</ul>
+<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step19-AcousticTester.PNG" alt="Step 19"/>
