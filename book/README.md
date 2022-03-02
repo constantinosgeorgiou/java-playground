@@ -1,73 +1,68 @@
 # JavaBabySteps
 First attempts to creating java programs.
 
+## [Step 1](src/step1.java) - Hello world program
+![Hello world](media/Step1-Saluton.PNG "Hello world")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step1.java" title="Step one source code" target="_blank">Step 1</a> - Hello world program</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step1-Saluton.PNG" alt="Step 1"/>
+## [Step 2](src/step2.java) - Finding the square root of a number
+![Square root](media/Step2-sqrRoot.PNG "Square root")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step2.java" title="Step two source code" target="_blank">Step 2</a> - Finding the square root of a number</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step2-sqrRoot.PNG" alt="Step 2"/>
+## [Step 3](src/step3.java) - Blank filler with arguments
+![Step3-Arguments](media/Step3-Arguments.PNG "Step3-Arguments")
+![Step3-BlankFiller](media/Step3-BlankFiller.PNG "Step3-BlankFiller")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step3.java" title="Step three source code" target="_blank">Step 3</a> - Blank filler with arguments</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step3-Arguments.PNG" alt="Step 3 Arguments"/>
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step3-BlankFiller.PNG" alt="Step 3"/>
+## [Step 4](src/step4.java) - Applet for finding the square root
+![Step4-rootApplet](media/Step4-rootApplet.PNG "Step4-rootApplet")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step4.java" title="Step four source code" target="_blank">Step 4</a> - Applet for finding the square root</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step4-rootApplet.PNG" alt="Step 4"/>
+## [Step 5](src/step5.java) - Finding the square root with arguments
+![Step5-NewRootArguments](media/Step5-NewRootArguments.PNG "Step5-NewRootArguments")
+![Step5-NewRoot](media/Step5-NewRoot.PNG "Step5-NewRoot")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step5.java" title="Step five source code" target="_blank">Step 5</a> - Finding the square root with arguments</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step5-NewRootArguments.PNG" alt="Step 5 Arguments"/>
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step5-NewRoot.PNG" alt="Step 5"/>
+## [Step 6](src/step6.java) - Exploring java variables
+![Step6-Variables](media/Step6-Variables.PNG "Step6-Variables")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step6.java" title="Step six source code" target="_blank">Step 6</a> - Exploring java variables</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step6-Variables.PNG" alt="Step 6"/>
+## [Step 7](src/step7.java) - Weight converter in various planets
+![Step7-PlanetWeight](media/Step7-PlanetWeight.PNG "Step7-PlanetWeight")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step7.java" title="Step seven source code" target="_blank">Step 7</a> - Weight converter in various planets</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step7-PlanetWeight.PNG" alt="Step 7"/>
+## [Step 8](src/step8.java) - Displaying the credits of a movie
+![Step8-Credits](media/Step8-Credits.PNG "Step8-Credits")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step8.java" title="Step eight source code" target="_blank">Step 8</a> - Displaying the credits of a movie</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step8-Credits.PNG" alt="Step 8"/>
+## [Step 9](src/step9.java) - Introducing if statements via two simple game examples
+![Step9-Game](media/Step9-Game.PNG "Step9-Game")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step9.java" title="Step nine source code" target="_blank">Step 9</a> - Introducing if statements via two simple game examples</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step9-Game.PNG" alt="Step 9"/>
+## [Step 10](src/step10.java) - Commodity
+![Step10-Commodity](media/Step10-Commodity.PNG "Step10-Commodity")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step10.java" title="Step ten source code" target="_blank">Step 10</a> - Commodity</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step10-Commodity.PNG" alt="Step 10"/>
+## [Step 11](src/step11.java) - Clock
+![Step11-Clock](media/Step11-Clock.PNG "Step11-Clock")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step11.java" title="Step eleven source code" target="_blank">Step 11</a> - Clock</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step11-Clock.PNG" alt="Step 11"/>
+## [Step 12](src/step12.java) - Multiples of Nine
+![Step12-Nines](media/Step12-Nines.PNG "Step12-Nines")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step12.java" title="Step twelve source code" target="_blank">Step 12</a> - Multiples of Nine</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step12-Nines.PNG" alt="Step 12"/>
+## [Step 13](src/step13.java) - Benchmark
+![Step13-Benchmark](media/Step13-Benchmark.PNG "Step13-Benchmark")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step13.java" title="Step thirteen source code" target="_blank">Step 13</a> - Benchmark</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step13-Benchmark.PNG" alt="Step 13"/>
+## [Step 14](src/step14.java) - Space remover
+![Step14-SpaceRemover](media/Step14-SpaceRemover.PNG "Step14-SpaceRemover")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step14.java" title="Step fourteen source code" target="_blank">Step 14</a> - Space remover</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step14-SpaceRemover.PNG" alt="Step 14"/>
+## [Step 15](src/step15.java) - Sorting a table that contains names
+![Step15-Name](media/Step15-Name.PNG "Step15-Name")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step15.java" title="Step fifteen source code" target="_blank">Step 15</a> - Sorting a table that contains names</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step15-Name.PNG" alt="Step 15"/>
+## [Step 16](src/step16.java) - Letter frequency counter
+![Step16-Wheel](media/Step16-Wheel.PNG "Step16-Wheel")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step16.java" title="Step sixteen source code" target="_blank">Step 16</a> - Letter frequency counter</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step16-Wheel.PNG" alt="Step 16"/>
+## [Step 17](src/step17.java) - Finding the square root with arguments
+![Step17-Arguments](media/Step17-Arguments.PNG "Step17-Arguments")
+![Step17-NewRootv2](media/Step17-NewRootv2.PNG "Step17-NewRootv2")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step17.java" title="Step seventeen source code" target="_blank">Step 17</a> - Finding the square root with arguments</h2> 
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step17-Arguments.PNG" alt="Step 17 Arguments"/>
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step17-NewRootv2.PNG" alt="Step 17"/>
+## [Step 18](src/step18.java) - Creating a modem tester... sort of...
+Classes used in this step
+- [Modem class](src/step18a.java)
+- [CableModem class](src/step18b.java)
+- [DslModem class](src/step18c.java)
+![Step18-ModemTester](media/Step18-ModemTester.PNG "Step18-ModemTester")
 
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step18.java" title="Step eighteen source code" target="_blank">Step 18</a> - Creating a modem tester... sort of...</h2> 
-<h3><b>Classes used in <a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step18.java" title="Step eighteen source code" target="_blank">Step 18</a></b></h3>
-<ul>
-  <li><h3><b><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step18a.java" title="Modem class" target="_blank">Modem</a></b> class</h3></li>
-  <li><h3><b><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step18b.java" title="CableModem class" target="_blank">CableModem</a></b> class</h3></li>
-  <li><h3><b><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step18c.java" title="DslModem class" target="_blank">DslModem</a></b> class</h3></li>
-</ul>
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step18-ModemTester.PNG" alt="Step 18"/>
-
-<h2><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step19.java" title="Step nineteen source code" target="_blank">Step 19</a> - Creating an acoustic modem tester... sort of...</h2> 
-<h3><b>Classes used in <a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step19.java" title="Step nineteen source code" target="_blank">Step 19</a></b></h3>
-<ul>
-<li><h3><b><a href="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/step19a.java" title="Acoustic Modem class" target="_blank">Acoustic Modem</a></b> class</h3></li>
-</ul>
-<img src="https://github.com/ConstantinosGeorgiou/JavaBabySteps/blob/master/Step19-AcousticTester.PNG" alt="Step 19"/>
+## [Step 19](src/step19.java) - Creating an acoustic modem tester... sort of...
+Classes used in this step
+- [Acoustic Modem class](src/step19a.java)
+![Step19-AcousticTester](media/Step19-AcousticTester.PNG "Step19-AcousticTester")
